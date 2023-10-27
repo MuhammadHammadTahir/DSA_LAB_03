@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698413174 source:d:\dsa  projects\queue_circular_array\main.cpp
+	<iostream>
+	"Queue.h"
+
+1698413023 d:\dsa  projects\queue_circular_array\include\queue.h
+
+1698413023 source:d:\dsa  projects\queue_circular_array\src\queue.cpp
+	"Queue.h"
+	<iostream>
+
